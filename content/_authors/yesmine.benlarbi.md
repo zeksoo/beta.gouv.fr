@@ -5,7 +5,7 @@ domaine: Autre
 github: yesmine-ben
 missions:
   - start: 2020-07-21
-    end: 2020-10-15
+    end: 2021-10-15
     status: admin
     employer: dinum
 startups:
