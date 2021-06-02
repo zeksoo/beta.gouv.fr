@@ -66,7 +66,7 @@ Mon-entreprise.fr est développé en étroite collaboration avec le réseau des 
 
 ### Budget 💶
 
-👉 [Consulter la description détaillée et atualisée](https://mon-entreprise.fr/budget)
+👉 [Consulter la description détaillée et actualisée](https://mon-entreprise.fr/budget)
 
 ### Internationalisation 🌍
 
