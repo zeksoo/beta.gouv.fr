@@ -13,7 +13,6 @@ missions:
 startups:
   - labels-transition
 previously:
-  - labels-transition
 competences:
   - Développement Backend
   - Développement Frontend
