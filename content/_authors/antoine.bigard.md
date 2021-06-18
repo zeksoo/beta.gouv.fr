@@ -5,7 +5,7 @@ domaine: Développement
 github: gethi
 missions:
   - start: 2018-09-17
-    end: 2021-06-30
+    end: 2021-12-30
     status: independent
     employer: octo
 startups:
