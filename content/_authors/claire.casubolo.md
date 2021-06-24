@@ -5,7 +5,7 @@ domaine: Autre
 github: ClaireCasu
 missions:
   - start: 2021-01-15
-    end: 2021-07-15
+    end: 2021-12-15
     status: independent
     employer: Octo
 startups:
