@@ -19,6 +19,7 @@ missions:
     employer: Octo
 startups:
   - diagoriente
+  - l'immersion facile
 previously:
   - la-bonne-formation
   - andi
