@@ -5,8 +5,8 @@ domaine: Développement
 github: providenz
 link: https://twitter.com/providenz
 missions:
-  - start: 2019-09-01
-    end: 2021-09-01
+  - start: 2021-09-01
+    end: 2022-09-01
     status: independent
 startups:  
     - trackdechets
