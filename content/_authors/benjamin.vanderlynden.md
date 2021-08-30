@@ -5,7 +5,7 @@ domaine: Coaching
 github: b-vand
 missions:
   - start: 2021-03-02
-    end: 2021-09-02
+    end: 2021-07-01
     status: independent
     employer: NUMA
 badges:
