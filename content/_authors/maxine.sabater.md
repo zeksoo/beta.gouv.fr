@@ -6,7 +6,7 @@ role: "Chargée de mission en appui aux projets innovants de la Fabrique
 github: maxinesabater
 missions:
   - start: 2021-03-15
-    end: 2021-09-30
+    end: 2022-01-31
     status: admin
     employer: DTNum (DGFIP)
 competences:
