@@ -13,6 +13,9 @@ phases:
   - name: investigation
     start: 2021-06-09
     end: 2021-09-30
+  - name: construction 
+    start: 2021-09-30
+    end: 2022-03-30
 ---
 
 ## Les problèmes à creuser lors de la phase d'investigation 
