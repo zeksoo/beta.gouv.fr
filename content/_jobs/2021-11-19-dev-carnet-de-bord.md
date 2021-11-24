@@ -1,15 +1,15 @@
 ---
-roles: développeur·se full-stack
+roles: Développeur ou développeuse full stack expérimenté.e
 startup: carnet.de.bord
-open: false
-techno: Back : Django 3+, Python 3.9, PostgreSQL 11, PostGIS, Redis Front : HTML, CSS, JavaScript Ops : Docker Compose, PaaS, CleverCloud
+techno: Svelte / Svelte-kit, Hasura, PostgreSQL, HTML, CSS, JavaScript, Tailwind, Docker, Docker Compose, PaaS, Github Actions
 junior: false
-open: false
-title:  Carnet de bord recrute un·e développeur·se full-stack Python Django
-
+open: true
+title: Carnet de bord recrute dev full stack expérimenté(e) 
+contrat: indépendant
+contact: laetitia.kouadria@beta.gouv.fr
 ---
 
-##  Quel est le contexte de la startup d'Etat Carnet de bord ?
+#  Quel est le contexte de la startup d'Etat Carnet de bord ?
 Carnet de bord vise à faciliter le vie des personnes éloignées de l'emploi (allocataires du RSA, demandeurs d'emplpi longue durée, etc.). 
 C'est un service numérique qui permet de partager les données essentielles sur les usagers et leur parcours d'insertion avec l'ensemble des personne qui les accompagnent.
 
@@ -65,13 +65,13 @@ Tu es en mesure de jouer sur 2 tableaux :
 
 Freelance 4 jours / semaine pendant 6 mois (renouvelable selon l'issue des comités d'investissement produit) 
 
-Télétravail par défaut - 2 déplacements par mois à prévoir pour réunion d'équipe et/ou rencontre des utilisateurs. Possibilité de venir travailler en co-working dans le 7e arrondissement. 
+Télétravail par défaut - 2 déplacements par mois à prévoir pour réunion d'équipe et/ou rencontre des utilisateurs. Possibilité de venir travailler en co-working à Paris ou à Lyon. 
 
 Démarrage : dès que possible ! 
 
 
 ## Pour candidater ...
 
-Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à laetitia.kouadria@beta.gouv.fr et julien@revolunet.com
+Explique-nous pourquoi tu as envie de nous rejoindre et transmets-nous ton LinkedIn / CV / GitHub à laetitia.kouadria@beta.gouv.fr et julien.bouquillon@sg.social.gouv.fr
 
 À bientôt !
