@@ -5,7 +5,7 @@ domaine: Déploiement
 github: sofzek
 missions:
   - start: 2021-09-13
-    end: 2021-12-13
+    end: 2022-06-30
     status: independent
     employer: Octo
 startups:
